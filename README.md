@@ -1,2 +1,3 @@
-# trilha-dev-dio
-Repositório consiste em compartilhar minha jornada na Digital Innovation One
+# Trilha-dev-dio
+Repositório consiste em compartilhar uma jornada na Digital Innovation One
+1. Meu primeiro projeto: criando repositório
